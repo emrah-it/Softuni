@@ -1,0 +1,7 @@
+D:\y4ene\Projects\Solution1\06.LongestreapeatArray\obj\Debug\06.LongestReapeatItem.csprojResolveAssemblyReference.cache
+D:\y4ene\Projects\Solution1\06.LongestreapeatArray\bin\Debug\06.LongestreapeatArray.exe
+D:\y4ene\Projects\Solution1\06.LongestreapeatArray\bin\Debug\06.LongestreapeatArray.pdb
+D:\y4ene\Projects\Solution1\06.LongestreapeatArray\obj\Debug\06.LongestreapeatArray.exe
+D:\y4ene\Projects\Solution1\06.LongestreapeatArray\obj\Debug\06.LongestreapeatArray.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\06.LongestreapeatArray\obj\Debug\06.LongestreapeatArray.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\06.LongestreapeatArray\obj\Debug\06.LongestreapeatArray.pdb

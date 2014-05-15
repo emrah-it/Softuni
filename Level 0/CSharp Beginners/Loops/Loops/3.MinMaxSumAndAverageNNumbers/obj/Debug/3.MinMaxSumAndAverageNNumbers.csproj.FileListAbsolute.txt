@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Loops\3.MinMaxSumAndAverageNNumbers\bin\Debug\3.MinMaxSumAndAverageNNumbers.exe
+E:\Source Code\Softuni\Loops\Loops\3.MinMaxSumAndAverageNNumbers\bin\Debug\3.MinMaxSumAndAverageNNumbers.pdb
+E:\Source Code\Softuni\Loops\Loops\3.MinMaxSumAndAverageNNumbers\obj\Debug\3.MinMaxSumAndAverageNNumbers.exe
+E:\Source Code\Softuni\Loops\Loops\3.MinMaxSumAndAverageNNumbers\obj\Debug\3.MinMaxSumAndAverageNNumbers.pdb
+E:\Source Code\Softuni\Loops\Loops\3.MinMaxSumAndAverageNNumbers\obj\Debug\3.MinMaxSumAndAverageNNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\15. Extract URLs from Text\bin\Debug\_15.Extract_URLs_from_Text.exe.config
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\15. Extract URLs from Text\bin\Debug\_15.Extract_URLs_from_Text.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\15. Extract URLs from Text\bin\Debug\_15.Extract_URLs_from_Text.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\15. Extract URLs from Text\obj\Debug\_15.Extract_URLs_from_Text.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\15. Extract URLs from Text\obj\Debug\_15.Extract_URLs_from_Text.pdb

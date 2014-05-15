@@ -1,0 +1,4 @@
+E:\Source Code\Softuni\Loops\Loops\6CalculateN!K!\bin\Debug\6CalculateN!K!.exe
+E:\Source Code\Softuni\Loops\Loops\6CalculateN!K!\bin\Debug\6CalculateN!K!.pdb
+E:\Source Code\Softuni\Loops\Loops\6CalculateN!K!\obj\Debug\6CalculateN!K!.exe
+E:\Source Code\Softuni\Loops\Loops\6CalculateN!K!\obj\Debug\6CalculateN!K!.pdb

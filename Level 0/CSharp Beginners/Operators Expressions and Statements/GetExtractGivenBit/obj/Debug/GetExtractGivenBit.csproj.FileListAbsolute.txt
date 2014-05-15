@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\GetExtractGivenBit\bin\Debug\GetExtractGivenBit.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\GetExtractGivenBit\bin\Debug\GetExtractGivenBit.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\GetExtractGivenBit\bin\Debug\GetExtractGivenBit.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\GetExtractGivenBit\obj\Debug\GetExtractGivenBit.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\GetExtractGivenBit\obj\Debug\GetExtractGivenBit.pdb

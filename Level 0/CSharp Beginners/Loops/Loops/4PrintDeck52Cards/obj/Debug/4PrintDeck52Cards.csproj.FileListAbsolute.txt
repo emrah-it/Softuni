@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Loops\4PrintDeck52Cards\bin\Debug\4PrintDeck52Cards.exe
+E:\Source Code\Softuni\Loops\Loops\4PrintDeck52Cards\bin\Debug\4PrintDeck52Cards.pdb
+E:\Source Code\Softuni\Loops\Loops\4PrintDeck52Cards\obj\Debug\4PrintDeck52Cards.csprojResolveAssemblyReference.cache
+E:\Source Code\Softuni\Loops\Loops\4PrintDeck52Cards\obj\Debug\4PrintDeck52Cards.exe
+E:\Source Code\Softuni\Loops\Loops\4PrintDeck52Cards\obj\Debug\4PrintDeck52Cards.pdb

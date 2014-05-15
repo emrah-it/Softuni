@@ -1,0 +1,4 @@
+D:\y4ene\Projects\Solution1\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\y4ene\Projects\Solution1\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

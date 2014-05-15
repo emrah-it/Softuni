@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe.config
+E:\Source Code\Softuni\Loops\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.exe
+E:\Source Code\Softuni\Loops\Loops\19.SpiralMatrix\bin\Debug\19.SpiralMatrix.pdb
+E:\Source Code\Softuni\Loops\Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.exe
+E:\Source Code\Softuni\Loops\Loops\19.SpiralMatrix\obj\Debug\19.SpiralMatrix.pdb

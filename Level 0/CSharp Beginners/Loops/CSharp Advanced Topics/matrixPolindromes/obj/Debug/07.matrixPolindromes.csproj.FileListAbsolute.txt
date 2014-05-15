@@ -1,0 +1,2 @@
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\matrixPolindromes\obj\Debug\matrixPolindromes.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\matrixPolindromes\obj\Debug\matrixPolindromes.pdb

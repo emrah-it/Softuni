@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ThirdDigitIsSeven\bin\Debug\ThirdDigitIsSeven.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ThirdDigitIsSeven\bin\Debug\ThirdDigitIsSeven.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ThirdDigitIsSeven\bin\Debug\ThirdDigitIsSeven.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ThirdDigitIsSeven\obj\Debug\ThirdDigitIsSeven.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ThirdDigitIsSeven\obj\Debug\ThirdDigitIsSeven.pdb

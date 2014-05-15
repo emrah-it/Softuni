@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\16.Counting a Word in a Text\bin\Debug\16.Counting a Word in a Text.exe.config
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\16.Counting a Word in a Text\bin\Debug\16.Counting a Word in a Text.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\16.Counting a Word in a Text\bin\Debug\16.Counting a Word in a Text.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\16.Counting a Word in a Text\obj\Debug\16.Counting a Word in a Text.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\16.Counting a Word in a Text\obj\Debug\16.Counting a Word in a Text.pdb

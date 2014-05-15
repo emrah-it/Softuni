@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\FourthBit\bin\Debug\FourthBit.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\FourthBit\bin\Debug\FourthBit.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\FourthBit\bin\Debug\FourthBit.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\FourthBit\obj\Debug\FourthBit.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\FourthBit\obj\Debug\FourthBit.pdb

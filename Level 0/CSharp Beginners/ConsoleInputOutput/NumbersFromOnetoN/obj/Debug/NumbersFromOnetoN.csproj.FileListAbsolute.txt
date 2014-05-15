@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumbersFromOnetoN\bin\Debug\NumbersFromOnetoN.exe.config
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumbersFromOnetoN\bin\Debug\NumbersFromOnetoN.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumbersFromOnetoN\bin\Debug\NumbersFromOnetoN.pdb
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumbersFromOnetoN\obj\Debug\NumbersFromOnetoN.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumbersFromOnetoN\obj\Debug\NumbersFromOnetoN.pdb

@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Loops\5CalculateFactoriel\bin\Debug\5CalculateFactoriel.exe
+E:\Source Code\Softuni\Loops\Loops\5CalculateFactoriel\bin\Debug\5CalculateFactoriel.pdb
+E:\Source Code\Softuni\Loops\Loops\5CalculateFactoriel\obj\Debug\5CalculateFactoriel.exe
+E:\Source Code\Softuni\Loops\Loops\5CalculateFactoriel\obj\Debug\5CalculateFactoriel.pdb
+E:\Source Code\Softuni\Loops\Loops\5CalculateFactoriel\obj\Debug\5CalculateFactoriel.csprojResolveAssemblyReference.cache

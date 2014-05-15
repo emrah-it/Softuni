@@ -1,0 +1,4 @@
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb
+E:\Source Code\Softuni\ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+E:\Source Code\Softuni\ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb

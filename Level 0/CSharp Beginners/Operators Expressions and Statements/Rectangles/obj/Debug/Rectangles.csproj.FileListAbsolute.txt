@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Rectangles\bin\Debug\Rectangles.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Rectangles\bin\Debug\Rectangles.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Rectangles\bin\Debug\Rectangles.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Rectangles\obj\Debug\Rectangles.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Rectangles\obj\Debug\Rectangles.pdb

@@ -1,0 +1,2 @@
+D:\y4ene\Projects\Solution1\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.exe
+D:\y4ene\Projects\Solution1\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.pdb

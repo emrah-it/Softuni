@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\SumOfGivenLineNumbers\bin\Debug\SumOfGivenLineNumbers.exe.config
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\SumOfGivenLineNumbers\bin\Debug\SumOfGivenLineNumbers.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\SumOfGivenLineNumbers\bin\Debug\SumOfGivenLineNumbers.pdb
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\SumOfGivenLineNumbers\obj\Debug\SumOfGivenLineNumbers.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\SumOfGivenLineNumbers\obj\Debug\SumOfGivenLineNumbers.pdb

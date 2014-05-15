@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ExchangeBits\bin\Debug\ExchangeBits.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ExchangeBits\bin\Debug\ExchangeBits.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ExchangeBits\bin\Debug\ExchangeBits.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ExchangeBits\obj\Debug\ExchangeBits.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\ExchangeBits\obj\Debug\ExchangeBits.pdb

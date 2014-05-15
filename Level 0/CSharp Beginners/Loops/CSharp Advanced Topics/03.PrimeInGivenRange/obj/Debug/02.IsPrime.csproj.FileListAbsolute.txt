@@ -1,0 +1,7 @@
+D:\y4ene\Projects\Solution1\03.PrimeInGivenRange\obj\Debug\02.IsPrime.csprojResolveAssemblyReference.cache
+D:\y4ene\Projects\Solution1\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.exe
+D:\y4ene\Projects\Solution1\03.PrimeInGivenRange\bin\Debug\03.PrimeInGivenRange.exe
+D:\y4ene\Projects\Solution1\03.PrimeInGivenRange\bin\Debug\03.PrimeInGivenRange.pdb
+D:\y4ene\Projects\Solution1\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.pdb

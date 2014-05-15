@@ -1,0 +1,4 @@
+E:\Source Code\Softuni\Loops\Conditional Statements\1ExchangeGreater\bin\Debug\1ExchangeGreater.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\1ExchangeGreater\bin\Debug\1ExchangeGreater.pdb
+E:\Source Code\Softuni\Loops\Conditional Statements\1ExchangeGreater\obj\Debug\1ExchangeGreater.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\1ExchangeGreater\obj\Debug\1ExchangeGreater.pdb

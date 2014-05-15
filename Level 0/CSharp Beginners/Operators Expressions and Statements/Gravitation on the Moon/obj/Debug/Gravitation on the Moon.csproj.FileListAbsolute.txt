@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Gravitation on the Moon\bin\Debug\Gravitation on the Moon.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Gravitation on the Moon\bin\Debug\Gravitation on the Moon.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Gravitation on the Moon\bin\Debug\Gravitation on the Moon.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Gravitation on the Moon\obj\Debug\Gravitation on the Moon.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Gravitation on the Moon\obj\Debug\Gravitation on the Moon.pdb

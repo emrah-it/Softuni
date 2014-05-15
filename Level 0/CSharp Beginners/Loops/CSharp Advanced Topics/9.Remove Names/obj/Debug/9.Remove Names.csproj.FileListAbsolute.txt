@@ -1,0 +1,6 @@
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\9.Remove Names\bin\Debug\9.Remove Names.exe.config
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\9.Remove Names\bin\Debug\9.Remove Names.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\9.Remove Names\bin\Debug\9.Remove Names.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\9.Remove Names\obj\Debug\9.Remove Names.csprojResolveAssemblyReference.cache
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\9.Remove Names\obj\Debug\9.Remove Names.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\9.Remove Names\obj\Debug\9.Remove Names.pdb

@@ -1,0 +1,4 @@
+E:\Source Code\Softuni\Loops\Loops\13BinaryDecimalNumber\bin\Debug\13BinaryDecimalNumber.exe
+E:\Source Code\Softuni\Loops\Loops\13BinaryDecimalNumber\bin\Debug\13BinaryDecimalNumber.pdb
+E:\Source Code\Softuni\Loops\Loops\13BinaryDecimalNumber\obj\Debug\13BinaryDecimalNumber.exe
+E:\Source Code\Softuni\Loops\Loops\13BinaryDecimalNumber\obj\Debug\13BinaryDecimalNumber.pdb

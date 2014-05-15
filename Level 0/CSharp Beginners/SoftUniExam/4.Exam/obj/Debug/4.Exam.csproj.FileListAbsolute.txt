@@ -1,0 +1,4 @@
+D:\Emrah\SourseCode\Softuni\SoftUniExam\4.Exam\bin\Debug\4.Exam.exe
+D:\Emrah\SourseCode\Softuni\SoftUniExam\4.Exam\bin\Debug\4.Exam.pdb
+D:\Emrah\SourseCode\Softuni\SoftUniExam\4.Exam\obj\Debug\4.Exam.exe
+D:\Emrah\SourseCode\Softuni\SoftUniExam\4.Exam\obj\Debug\4.Exam.pdb

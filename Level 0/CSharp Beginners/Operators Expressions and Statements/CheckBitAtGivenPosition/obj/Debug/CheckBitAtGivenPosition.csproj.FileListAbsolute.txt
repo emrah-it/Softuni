@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\CheckBitAtGivenPosition\bin\Debug\CheckBitAtGivenPosition.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\CheckBitAtGivenPosition\obj\Debug\CheckBitAtGivenPosition.pdb

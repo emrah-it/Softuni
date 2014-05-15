@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\11.FallingRocks\bin\Debug\11.FallingRocks.pdb
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.csprojResolveAssemblyReference.cache
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\11.FallingRocks\obj\Debug\11.FallingRocks.pdb

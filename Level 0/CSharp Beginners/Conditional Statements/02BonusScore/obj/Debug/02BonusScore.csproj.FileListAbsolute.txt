@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Conditional Statements\02BonusScore\bin\Debug\02BonusScore.exe.config
+E:\Source Code\Softuni\Loops\Conditional Statements\02BonusScore\bin\Debug\02BonusScore.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\02BonusScore\bin\Debug\02BonusScore.pdb
+E:\Source Code\Softuni\Loops\Conditional Statements\02BonusScore\obj\Debug\02BonusScore.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\02BonusScore\obj\Debug\02BonusScore.pdb

@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\12. Count of Names\bin\Debug\_12.Count_of_Names.exe.config
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\12. Count of Names\bin\Debug\_12.Count_of_Names.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\12. Count of Names\bin\Debug\_12.Count_of_Names.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\12. Count of Names\obj\Debug\_12.Count_of_Names.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\12. Count of Names\obj\Debug\_12.Count_of_Names.pdb

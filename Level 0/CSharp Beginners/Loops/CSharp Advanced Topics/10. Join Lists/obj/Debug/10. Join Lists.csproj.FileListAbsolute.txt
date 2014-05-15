@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\10. Join Lists\bin\Debug\_10.Join_Lists.exe.config
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\10. Join Lists\bin\Debug\_10.Join_Lists.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\10. Join Lists\bin\Debug\_10.Join_Lists.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\10. Join Lists\obj\Debug\_10.Join_Lists.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\10. Join Lists\obj\Debug\_10.Join_Lists.pdb

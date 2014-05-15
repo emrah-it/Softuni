@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Loops\2.NombersNotDivisibleBy3And7\bin\Debug\2.NombersNotDivisibleBy3And7.exe
+E:\Source Code\Softuni\Loops\Loops\2.NombersNotDivisibleBy3And7\bin\Debug\2.NombersNotDivisibleBy3And7.pdb
+E:\Source Code\Softuni\Loops\Loops\2.NombersNotDivisibleBy3And7\obj\Debug\2.NombersNotDivisibleBy3And7.exe
+E:\Source Code\Softuni\Loops\Loops\2.NombersNotDivisibleBy3And7\obj\Debug\2.NombersNotDivisibleBy3And7.pdb
+E:\Source Code\Softuni\Loops\Loops\2.NombersNotDivisibleBy3And7\obj\Debug\2.NombersNotDivisibleBy3And7.csprojResolveAssemblyReference.cache

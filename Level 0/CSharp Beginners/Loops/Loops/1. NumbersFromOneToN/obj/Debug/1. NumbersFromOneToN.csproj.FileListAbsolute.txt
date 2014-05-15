@@ -1,0 +1,4 @@
+E:\Source Code\Softuni\Loops\Loops\1. NumbersFromOneToN\bin\Debug\_1.NumbersFromOneToN.exe
+E:\Source Code\Softuni\Loops\Loops\1. NumbersFromOneToN\bin\Debug\_1.NumbersFromOneToN.pdb
+E:\Source Code\Softuni\Loops\Loops\1. NumbersFromOneToN\obj\Debug\_1.NumbersFromOneToN.exe
+E:\Source Code\Softuni\Loops\Loops\1. NumbersFromOneToN\obj\Debug\_1.NumbersFromOneToN.pdb

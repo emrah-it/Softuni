@@ -1,0 +1,7 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\InCirecleOutOfRectangle\bin\Debug\InCirecleOutOfRectangle.exe.config
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\InCirecleOutOfRectangle\bin\Debug\InCirecleOutOfRectangle.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\InCirecleOutOfRectangle\bin\Debug\InCirecleOutOfRectangle.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\InCirecleOutOfRectangle\obj\Debug\InCirecleOutOfRectangle.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\InCirecleOutOfRectangle\obj\Debug\InCirecleOutOfRectangle.pdb
+E:\Source Code\Softuni\Operators Expressions and Statements\InCirecleOutOfRectangle\obj\Debug\InCirecleOutOfRectangle.exe
+E:\Source Code\Softuni\Operators Expressions and Statements\InCirecleOutOfRectangle\obj\Debug\InCirecleOutOfRectangle.pdb

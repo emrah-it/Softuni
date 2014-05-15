@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe.config
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\14. Longest Word in a Text\bin\Debug\_14.Longest_Word_in_a_Text.pdb
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.exe
+E:\Source Code\Softuni\Loops\CSharp Advanced Topics\14. Longest Word in a Text\obj\Debug\_14.Longest_Word_in_a_Text.pdb

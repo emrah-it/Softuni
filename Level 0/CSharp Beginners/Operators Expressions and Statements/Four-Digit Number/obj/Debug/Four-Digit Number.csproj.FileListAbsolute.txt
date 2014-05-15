@@ -1,0 +1,7 @@
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Four-Digit Number\obj\Debug\Four-Digit Number.csprojResolveAssemblyReference.cache
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Four-Digit Number\bin\Debug\Four-Digit Number.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Four-Digit Number\bin\Debug\Four-Digit Number.pdb
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Four-Digit Number\obj\Debug\Four-Digit Number.exe
+D:\Emrah\SourseCode\Softuni\Operators Expressions and Statements\Four-Digit Number\obj\Debug\Four-Digit Number.pdb
+E:\Source Code\Softuni\Operators Expressions and Statements\Four-Digit Number\obj\Debug\Four-Digit Number.exe
+E:\Source Code\Softuni\Operators Expressions and Statements\Four-Digit Number\obj\Debug\Four-Digit Number.pdb

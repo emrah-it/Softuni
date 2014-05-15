@@ -1,0 +1,4 @@
+E:\Source Code\Softuni\Loops\Loops\12RandomizeTheNumbers\bin\Debug\12RandomizeTheNumbers.exe
+E:\Source Code\Softuni\Loops\Loops\12RandomizeTheNumbers\bin\Debug\12RandomizeTheNumbers.pdb
+E:\Source Code\Softuni\Loops\Loops\12RandomizeTheNumbers\obj\Debug\12RandomizeTheNumbers.exe
+E:\Source Code\Softuni\Loops\Loops\12RandomizeTheNumbers\obj\Debug\12RandomizeTheNumbers.pdb

@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Conditional Statements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe.config
+E:\Source Code\Softuni\Loops\Conditional Statements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\06TheBiggestOfFiveNumbers\bin\Debug\06TheBiggestOfFiveNumbers.pdb
+E:\Source Code\Softuni\Loops\Conditional Statements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\06TheBiggestOfFiveNumbers\obj\Debug\06TheBiggestOfFiveNumbers.pdb

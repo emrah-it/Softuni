@@ -1,0 +1,2 @@
+E:\Source Code\Softuni\Operators Expressions and Statements\OddOrEven\obj\Debug\OddOrEven.exe
+E:\Source Code\Softuni\Operators Expressions and Statements\OddOrEven\obj\Debug\OddOrEven.pdb

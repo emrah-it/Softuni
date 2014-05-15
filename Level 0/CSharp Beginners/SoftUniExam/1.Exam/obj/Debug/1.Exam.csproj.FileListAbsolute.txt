@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\SoftUniExam\1.Exam\bin\Debug\1.Exam.exe
+D:\Emrah\SourseCode\Softuni\SoftUniExam\1.Exam\bin\Debug\1.Exam.pdb
+D:\Emrah\SourseCode\Softuni\SoftUniExam\1.Exam\obj\Debug\1.Exam.csprojResolveAssemblyReference.cache
+D:\Emrah\SourseCode\Softuni\SoftUniExam\1.Exam\obj\Debug\1.Exam.exe
+D:\Emrah\SourseCode\Softuni\SoftUniExam\1.Exam\obj\Debug\1.Exam.pdb

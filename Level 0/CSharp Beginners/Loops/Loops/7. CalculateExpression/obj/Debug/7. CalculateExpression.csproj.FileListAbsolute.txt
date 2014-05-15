@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Loops\7. CalculateExpression\bin\Debug\_7.CalculateExpression.exe
+E:\Source Code\Softuni\Loops\Loops\7. CalculateExpression\bin\Debug\_7.CalculateExpression.pdb
+E:\Source Code\Softuni\Loops\Loops\7. CalculateExpression\obj\Debug\_7.CalculateExpression.exe
+E:\Source Code\Softuni\Loops\Loops\7. CalculateExpression\obj\Debug\_7.CalculateExpression.pdb
+E:\Source Code\Softuni\Loops\Loops\7. CalculateExpression\obj\Debug\7. CalculateExpression.csprojResolveAssemblyReference.cache

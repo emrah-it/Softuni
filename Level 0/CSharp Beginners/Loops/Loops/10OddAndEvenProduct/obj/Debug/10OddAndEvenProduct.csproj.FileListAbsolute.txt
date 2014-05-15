@@ -1,0 +1,4 @@
+E:\Source Code\Softuni\Loops\Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.exe
+E:\Source Code\Softuni\Loops\Loops\10OddAndEvenProduct\bin\Debug\10OddAndEvenProduct.pdb
+E:\Source Code\Softuni\Loops\Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.exe
+E:\Source Code\Softuni\Loops\Loops\10OddAndEvenProduct\obj\Debug\10OddAndEvenProduct.pdb

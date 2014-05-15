@@ -1,0 +1,6 @@
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\PrintCompanyInformatin\bin\Debug\PrintCompanyInformatin.exe.config
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\PrintCompanyInformatin\bin\Debug\PrintCompanyInformatin.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\PrintCompanyInformatin\bin\Debug\PrintCompanyInformatin.pdb
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\PrintCompanyInformatin\obj\Debug\PrintCompanyInformatin.csprojResolveAssemblyReference.cache
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\PrintCompanyInformatin\obj\Debug\PrintCompanyInformatin.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\PrintCompanyInformatin\obj\Debug\PrintCompanyInformatin.pdb

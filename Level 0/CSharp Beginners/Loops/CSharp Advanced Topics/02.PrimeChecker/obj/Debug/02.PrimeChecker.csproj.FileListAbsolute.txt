@@ -1,0 +1,5 @@
+D:\y4ene\Projects\Solution1\02.PrimeChecker\bin\Debug\02.PrimeChecker.exe
+D:\y4ene\Projects\Solution1\02.PrimeChecker\bin\Debug\02.PrimeChecker.pdb
+D:\y4ene\Projects\Solution1\02.PrimeChecker\obj\Debug\02.PrimeChecker.csprojResolveAssemblyReference.cache
+D:\y4ene\Projects\Solution1\02.PrimeChecker\obj\Debug\02.PrimeChecker.exe
+D:\y4ene\Projects\Solution1\02.PrimeChecker\obj\Debug\02.PrimeChecker.pdb

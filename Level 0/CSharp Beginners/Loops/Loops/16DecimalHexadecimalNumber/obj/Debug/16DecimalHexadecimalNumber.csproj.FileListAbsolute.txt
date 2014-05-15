@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Loops\16DecimalHexadecimalNumber\bin\Debug\16DecimalHexadecimalNumber.exe.config
+E:\Source Code\Softuni\Loops\Loops\16DecimalHexadecimalNumber\bin\Debug\16DecimalHexadecimalNumber.exe
+E:\Source Code\Softuni\Loops\Loops\16DecimalHexadecimalNumber\bin\Debug\16DecimalHexadecimalNumber.pdb
+E:\Source Code\Softuni\Loops\Loops\16DecimalHexadecimalNumber\obj\Debug\16DecimalHexadecimalNumber.exe
+E:\Source Code\Softuni\Loops\Loops\16DecimalHexadecimalNumber\obj\Debug\16DecimalHexadecimalNumber.pdb

@@ -1,0 +1,4 @@
+E:\Source Code\Softuni\Loops\Loops\9MatrixNumbers\bin\Debug\9MatrixNumbers.exe
+E:\Source Code\Softuni\Loops\Loops\9MatrixNumbers\bin\Debug\9MatrixNumbers.pdb
+E:\Source Code\Softuni\Loops\Loops\9MatrixNumbers\obj\Debug\9MatrixNumbers.exe
+E:\Source Code\Softuni\Loops\Loops\9MatrixNumbers\obj\Debug\9MatrixNumbers.pdb

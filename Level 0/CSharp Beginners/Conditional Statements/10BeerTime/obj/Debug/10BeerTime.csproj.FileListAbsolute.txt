@@ -1,0 +1,5 @@
+E:\Source Code\Softuni\Loops\Conditional Statements\10BeerTime\bin\Debug\10BeerTime.exe.config
+E:\Source Code\Softuni\Loops\Conditional Statements\10BeerTime\bin\Debug\10BeerTime.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\10BeerTime\bin\Debug\10BeerTime.pdb
+E:\Source Code\Softuni\Loops\Conditional Statements\10BeerTime\obj\Debug\10BeerTime.exe
+E:\Source Code\Softuni\Loops\Conditional Statements\10BeerTime\obj\Debug\10BeerTime.pdb

@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumberComparare\bin\Debug\NumberComparare.exe.config
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumberComparare\bin\Debug\NumberComparare.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumberComparare\bin\Debug\NumberComparare.pdb
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumberComparare\obj\Debug\NumberComparare.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\NumberComparare\obj\Debug\NumberComparare.pdb

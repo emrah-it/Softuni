@@ -1,0 +1,5 @@
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe.config
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\QuadraticEquation\bin\Debug\QuadraticEquation.pdb
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.exe
+D:\Emrah\SourseCode\Softuni\ConsoleInputOutput\QuadraticEquation\obj\Debug\QuadraticEquation.pdb

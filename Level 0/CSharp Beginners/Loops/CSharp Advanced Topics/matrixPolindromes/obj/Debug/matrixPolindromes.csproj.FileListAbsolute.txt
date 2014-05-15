@@ -1,0 +1,5 @@
+D:\y4ene\Projects\Solution1\matrixPolindromes\bin\Debug\matrixPolindromes.exe
+D:\y4ene\Projects\Solution1\matrixPolindromes\bin\Debug\matrixPolindromes.pdb
+D:\y4ene\Projects\Solution1\matrixPolindromes\obj\Debug\matrixPolindromes.csprojResolveAssemblyReference.cache
+D:\y4ene\Projects\Solution1\matrixPolindromes\obj\Debug\matrixPolindromes.exe
+D:\y4ene\Projects\Solution1\matrixPolindromes\obj\Debug\matrixPolindromes.pdb
