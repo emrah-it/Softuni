@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+D:\Source\Source Code\Softuni\Java Basics\Java Collections Basics\.metadata\.plugins\org.eclipse.jdt.core
+2208167372.index

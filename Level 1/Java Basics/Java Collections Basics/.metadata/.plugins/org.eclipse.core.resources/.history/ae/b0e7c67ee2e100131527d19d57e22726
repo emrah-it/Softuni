@@ -1,0 +1,13 @@
+package Homework;
+
+import java.util.Scanner;
+
+public class _1_SortArrayOfNumbers {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		System.out.println("Enter n, and then in second line enter n numbers,\nsepareted with whitespaces");
+
+	}
+
+}

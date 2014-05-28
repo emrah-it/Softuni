@@ -1,0 +1,94 @@
+//Problem 9.	List of Products
+//Create a class Product to hold products, which have name
+// (string) and price (decimal number). Read from a text
+// file named "Input.txt" a list of products. Each product
+// will be in format name + space + price. You should hold
+// the products in objects of class Product. Sort the products
+// by price and write them in format price + space + name in
+// a file named "Output.txt". Ensure you close correctly all used resources.
+
+import java.io.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class _9_ListOfProducts {
+
+    public static void main(String[] args) {
+        List<String> unorderedList = new ArrayList<String>();
+        addSimpleExample(unorderedList);
+
+
+        File fileName = new File("Input.txt");
+
+        writeToFile(fileName, unorderedList);
+
+        List<String> readedFromFile = readStringFromFile(fileName);
+
+        List<String> orderedList = orderGivenList(readedFromFile);
+        
+        fileName = new File("Output.txt");
+        writeToFile(fileName, orderedList);
+    }
+
+    /**
+     * @param readedFromFile
+     * @return
+     */
+    private static List<String> orderGivenList(List<String> readedFromFile) {
+        readedFromFile
+                .sort((p1, p2) -> (int) ((Double.parseDouble(p1.split(" ")[1]) - Double
+                        .parseDouble(p2.split(" ")[1])) * 10));
+
+        return readedFromFile;
+    }
+
+    private static void addSimpleExample(List<String> unorderedList) {
+        unorderedList.add("milk 2.80");
+        unorderedList.add("apple 1.20");
+        unorderedList.add("coffee 8.50");
+        unorderedList.add("juice 2.50");
+        unorderedList.add("water 1.20");
+        unorderedList.add("vodka 18.70");
+        unorderedList.add("beer 1.12");
+    }
+
+    private static List<String> readStringFromFile(File fileName) {
+        List<String> readFromFIle = new ArrayList<String>();
+        try {
+            FileReader reader = new FileReader(fileName);
+            BufferedReader br = new BufferedReader(reader);
+            String line;
+            while ((line = br.readLine()) != null) {
+                readFromFIle.add(line);
+            }
+            br.close();
+        } catch (IOException e){
+            e.printStackTrace();
+        }
+
+        return readFromFIle;
+    }
+
+    private static void writeToFile(File fileName, List<String> unorderedList) {
+        try {
+            FileWriter writer = new FileWriter(fileName);
+            BufferedWriter bufferedWriter = new BufferedWriter(writer);
+
+            for(String item:unorderedList){
+                bufferedWriter.write(item);
+                bufferedWriter.newLine();
+            }
+            bufferedWriter.close();
+        } catch (IOException e){
+            e.printStackTrace();
+        }
+    }
+}
+//FileReader reader = new FileReader(fileName);
+//BufferedReader br = new BufferedReader(reader);
+//String line;
+//while ((line = br.readLine()) != null) {
+//        sum += Integer.parseInt(line);
+//        }
+//        br.close();

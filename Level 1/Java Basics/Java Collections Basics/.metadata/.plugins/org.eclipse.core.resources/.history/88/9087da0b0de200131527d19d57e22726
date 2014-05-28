@@ -1,0 +1,49 @@
+package Homework;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.util.List;
+import java.util.ArrayList;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+public class _12_WebCrawler {
+
+	public static void main(String[] args) {
+		
+		try {
+			extractLinks("http://emrah.it/");
+			URL my_url = new URL("http://www.vimalkumarpatel.blogspot.com/");
+			BufferedReader br = new BufferedReader(new InputStreamReader(
+					my_url.openStream()));
+			String strTemp = "";
+			while (null != (strTemp = br.readLine())) {
+				System.out.println(strTemp);
+				
+			}
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		}
+	}
+
+	public static List<String> extractLinks(String url) throws IOException {
+		final ArrayList<String> result = new ArrayList<String>();
+
+		Document doc = Jsoup.connect(url).get();
+
+		Elements links = doc.select("a[href]");
+
+		// href ...
+		for (Element link : links) {
+			result.add(link.attr("abs:href"));
+		}
+
+		return result;
+	}
+
+}

@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+
+public class LargestRegctagnlesArea {
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+		String[] allRectangles = input.nextLine().split("[");
+		
+		int[] allSums = new int[allRectangles.length];
+		for (int i = 0; i < allRectangles.length; i++) {
+			System.out.println(allRectangles[i]);
+			allSums[i] = calculateCurrentRectangle(allRectangles[i]);
+		}
+
+	}
+
+	private static int calculateCurrentRectangle(String currentRectangle) {
+		currentRectangle = currentRectangle.trim();
+		currentRectangle = currentRectangle.substring(0, currentRectangle.length() - 3);
+		return 0;
+	}
+
+}

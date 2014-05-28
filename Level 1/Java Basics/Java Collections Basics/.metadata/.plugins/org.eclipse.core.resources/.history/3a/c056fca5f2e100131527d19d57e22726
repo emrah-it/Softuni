@@ -1,0 +1,39 @@
+package Homework;
+
+import java.util.HashSet;
+import java.util.Scanner;
+import java.util.Set;
+
+public class _9_CombineListsOfLetters {
+
+	public static void main(String[] args) {
+		System.out.println("Enter chars separeted with whitespasec");
+		Scanner input = new Scanner(System.in);
+		String[] firstArrayStrings = input.nextLine().split(" ");
+
+		System.out.println("Enter second chars separeted with whitespasec");
+		String[] secondArray = input.nextLine().split(" ");
+
+		String[] returnValue = CombineTwoStrings(firstArrayStrings, secondArray);
+		System.out.println(String.join(" ", returnValue));
+	}
+
+	private static String[] CombineTwoStrings(String[] firstArrayStrings,
+			String[] secondArray) {
+		Set<String> allChars = new HashSet<String>();
+		addToHashSet(allChars, firstArrayStrings);
+		addToHashSet(allChars, secondArray);
+		//myset.toArray(new String[myset.size()]);
+		return allChars.toArray(new String[allChars.size()]);
+
+	}
+
+	private static void addToHashSet(Set<String> allChars,
+			String[] array) {
+		for (int i = 0; i < array.length; i++) {
+			allChars.add(array[i]);
+		}
+
+	}
+
+}

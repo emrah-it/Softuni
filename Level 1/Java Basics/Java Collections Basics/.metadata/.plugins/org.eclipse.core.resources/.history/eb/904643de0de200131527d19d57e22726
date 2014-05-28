@@ -1,0 +1,60 @@
+package Homework;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.util.HashSet;
+import java.util.List;
+import java.util.ArrayList;
+import java.util.Map;
+import java.util.Set;
+
+import org.jsoup.Jsoup;
+import org.jsoup.UnsupportedMimeTypeException;
+import org.jsoup.nodes.Document;
+import org.jsoup.nodes.Element;
+import org.jsoup.select.Elements;
+
+public class _12_WebCrawler {
+
+	public static void main(String[] args) {
+		Set<String> visited = new HashSet<String>();
+		visited.add("https://softuni.bg/");
+		try {
+			List<String> urls = extractLinks("https://softuni.bg/");
+			for (int i = 0; i < 2; i++) {
+				List<String> currentVisited = new ArrayList<String>();
+				for (int j = 0; j < urls.size(); j++) {
+					if (!visited.contains(urls.get(j))) {
+						currentVisited.addAll(extractLinks(urls.get(j)));
+						visited.add(urls.get(j));
+					}
+				}
+				urls = currentVisited;
+			}
+
+		} catch (Exception ex) {
+			ex.printStackTrace();
+		}
+	}
+
+	public static List<String> extractLinks(String url) throws IOException {
+		final ArrayList<String> result = new ArrayList<String>();
+		try {
+			Document doc = Jsoup.connect(url).get();
+
+			Elements links = doc.select("a[href]");
+
+			// href ...
+			for (Element link : links) {
+				result.add(link.attr("abs:href"));
+			}
+		} catch (UnsupportedMimeTypeException e) {
+			
+		}
+
+		return result;
+	}
+
+}

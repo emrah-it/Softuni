@@ -1,0 +1,31 @@
+package Homework;
+
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
+
+public class _8_ExtractEmails {
+
+	public static void main(String[] args) {
+		System.out.println("Please enter text to search emails into");
+		Scanner input = new Scanner(System.in);
+		
+		
+		String str = input.nextLine();
+
+		// find all words starting with m or c, and ends with n or r or s. 
+		// RegEx backslash should be escaped with an additional one.
+		Pattern p = Pattern.compile("^[_A-Za-z0-9-\\+]+(\\.[_A-Za-z0-9-]+)*@"
+				+ "[A-Za-z0-9-]+(\\.[A-Za-z0-9]+)*(\\.[A-Za-z]{2,})$");
+		
+		Matcher m = p.matcher(str);
+		while (m.find()) { // find next match
+		    String match = m.group();
+		    System.out.println(match);
+		}
+
+	        // false because regex does not match the whole string
+	        System.out.println("Matches: " + m.matches());
+	}
+
+}

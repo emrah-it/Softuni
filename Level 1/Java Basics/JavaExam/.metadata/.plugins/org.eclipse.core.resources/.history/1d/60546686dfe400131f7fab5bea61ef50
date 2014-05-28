@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+import org.omg.CORBA.Current;
+
+
+public class _1_ {
+
+	public static void main(String[] args) {
+		
+		int minutes = 0;
+		Scanner input = new Scanner(System.in);
+		String currentLine;
+		
+		while(true){
+			currentLine = input.nextLine();
+			if(currentLine.equals("End")){
+				break;
+			}else{
+				String[] splited = currentLine.split(":");
+				minutes += Integer.parseInt(splited[1]);
+				minutes += (60 * Integer.parseInt(splited[1]));
+			}
+		}
+		
+		int hours = minutes / 60;
+		int returnMinutes = minutes % 60;
+		
+		System.out.println(hours + ":" + minutes);
+		
+
+	}
+
+}

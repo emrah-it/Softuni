@@ -1,0 +1,96 @@
+//Problem 3.	Full House
+//In most Poker games, the "full house" hand is defined as three cards of the same
+//face + two cards of the same face, other than the first, regardless of the
+//card's suits. The cards faces are "2", "3", "4", "5", "6", "7", "8", "9", "10",
+//"J", "Q", "K" and "A". The card suits are "♣", "♦", "♥" and "♠". Write a
+//program to generate and print all full houses and print their number.
+
+import java.lang.Number;
+import java.util.*;
+
+public class _3_FullHouse {
+
+	static private int max = 100;
+	static private int n;
+	static private int k;
+	static private int[] a = new int[max];
+
+	static private String[] allCards = { "2", "3", "4", "5", "6", "7", "8",
+			"9", "10", "J", "Q", "K", "A" };
+	static private String[] allColors = { "♣", "♦", "♥", "♠" };
+	static private List<String> allCardCombination = new ArrayList<String>();
+
+	static private Set<String> allPosibleCombSet = new HashSet<String>();
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+		allCardCombination = getAllCardCombinations(allCards, allColors);
+
+		n = allCardCombination.size();
+
+		Permute(n);
+
+		System.out.println("");
+
+	}
+
+	private static List<String> getAllCardCombinations(String[] cards,
+			String[] colors) {
+
+		List<String> combList = new ArrayList<String>();
+		for (int i = 0; i < cards.length; i++) {
+			for (int j = 0; j < colors.length; j++) {
+				String current = cards[i] + colors[j];
+				combList.add(current);
+			}
+		}
+
+		return combList;
+	}
+
+	private static void Permute(int k)
+    {
+        
+        if (k == 0)
+        {
+            Print();
+            return;
+        }
+        else
+        {
+            String swap;
+            Permute(k - 1);
+            for (int i = 0; i < k -1; i++)
+            {
+            	
+            	
+            	
+                swap = allCardCombination.get(i);
+                allCardCombination.set(i, allCardCombination.get(k - 1));
+                allCardCombination.set(k -1, swap);
+                Permute(k - 1);
+                swap = allCardCombination.get(i);
+                allCardCombination.set(i, allCardCombination.get(k - 1));
+                allCardCombination.set(k -1, swap);
+            }
+        }
+    }
+
+	static void Print() {
+		List<String> currentCards = new ArrayList<String>();
+
+		for (int l = 0; l <= 5; l++) {
+			if (!currentCards.contains(allCardCombination.get(l))) {
+				currentCards.add(allCardCombination.get(l));
+			} else {
+				return;
+			}
+		}
+		currentCards.sort((p1, p2) -> p1.compareTo(p2));
+
+		allPosibleCombSet.add(String.join(" ", currentCards));
+
+	}
+
+}

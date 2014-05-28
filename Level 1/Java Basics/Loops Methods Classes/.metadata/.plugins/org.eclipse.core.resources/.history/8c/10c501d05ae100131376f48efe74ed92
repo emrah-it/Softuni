@@ -1,0 +1,41 @@
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.IOException;
+import java.util.Iterator;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+
+public class _10_Excel {
+
+	public static void main(String[] args) throws IOException {
+		// TODO Auto-generated method stub
+		
+		//..
+		FileInputStream file = new FileInputStream(new File("Test.xlsx"));
+		             
+		//Get the workbook instance for XLS file 
+		XSSFWorkbook workbook = new XSSFWorkbook (file);
+		 
+		//Get first sheet from the workbook
+		XSSFSheet sheet = workbook.getSheetAt(0);
+		 
+		//Get iterator to all the rows in current sheet
+		Iterator<Row> rowIterator = sheet.iterator();
+		while(rowIterator.hasNext()){
+			Row current = rowIterator.next();
+
+			//Get iterator to all cells of current row
+			Iterator<Cell> cellIterator = current.cellIterator();
+			while(cellIterator.hasNext()){
+				System.out.println(cellIterator.next());
+			}
+		}
+		
+		
+		
+		
+	}
+}

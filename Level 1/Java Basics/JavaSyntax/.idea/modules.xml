@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountTwoEqualBits/CountOneBits.iml" filepath="$PROJECT_DIR$/CountTwoEqualBits/CountOneBits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DecimalToHesadecimal/DecimalToHesadecimal.iml" filepath="$PROJECT_DIR$/DecimalToHesadecimal/DecimalToHesadecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CountBitsOfOne/DrowWithXPS.iml" filepath="$PROJECT_DIR$/CountBitsOfOne/DrowWithXPS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FormatingNumbers/FormatingNumbers.iml" filepath="$PROJECT_DIR$/FormatingNumbers/FormatingNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IsInHouse/IsInHouse.iml" filepath="$PROJECT_DIR$/IsInHouse/IsInHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaSyntax.iml" filepath="$PROJECT_DIR$/JavaSyntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PointsInsideAFigure/PointsInsideAFigure.iml" filepath="$PROJECT_DIR$/PointsInsideAFigure/PointsInsideAFigure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RectangleArea/RectangleArea.iml" filepath="$PROJECT_DIR$/RectangleArea/RectangleArea.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmallestFromThreeNumbers/SmallestFromThreeNumbers.iml" filepath="$PROJECT_DIR$/SmallestFromThreeNumbers/SmallestFromThreeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TringleArea/TringleArea.iml" filepath="$PROJECT_DIR$/TringleArea/TringleArea.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HomeTown:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HomeTown_jar</output-path>
+    <root id="archive" name="HomeTown.jar">
+      <element id="module-output" name="HomeTown" />
+      <element id="artifact" artifact-name="archive_jar" />
+    </root>
+  </artifact>
+</component>

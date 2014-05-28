@@ -1,0 +1,79 @@
+//Problem 3.	Full House
+//In most Poker games, the "full house" hand is defined as three cards of the same
+//face + two cards of the same face, other than the first, regardless of the
+//card's suits. The cards faces are "2", "3", "4", "5", "6", "7", "8", "9", "10",
+//"J", "Q", "K" and "A". The card suits are "♣", "♦", "♥" and "♠". Write a
+//program to generate and print all full houses and print their number.
+
+import java.lang.Number;
+import java.util.*;
+
+public class _3_FullHouse {
+
+	static private int max = 100;
+	static private int n;
+	static private int k;
+	static private int[] array = new int[max];
+
+	static private String[] allCards = { "2", "3", "4", "5", "6", "7", "8",
+			"9", "10", "J", "Q", "K", "A" };
+	static private String[] allColors = { "♣", "♦", "♥", "♠" };
+	static private List<String> allCardCombination = new ArrayList<String>();
+
+	static private Set<Map<String, Integer>> allPosibleCombSet = new HashSet<Map<String, Integer>>();
+
+	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
+
+
+		n = allCards.length;
+		k = 5;
+
+		Variate(0);
+
+		System.out.println("");
+
+	}
+
+	private static void Variate(int i)
+    {
+        if (i >= k)
+        {
+            checkIsItFullHouse();
+            return;
+        }
+        for (int j = 0; j < n; j++)
+        {
+            array[i] = j;
+            Variate(i + 1);
+        }
+    }
+
+	static void checkIsItFullHouse() {
+		Map<String, Integer> currentCards = new HashMap<String, Integer>();
+
+		for (int i = 0; i < 5; i++) {
+			if (currentCards.containsKey(allCards[i])) {
+				currentCards.put(allCards[i],
+						currentCards.get(currentCards) + 1);
+			} else {
+				currentCards.put(allCards[i], 1);
+			}
+		}
+		boolean treeCard = false;
+		boolean twoCard = false;
+		for (String key : currentCards.keySet()) {
+			if (currentCards.get(key) == 3) {
+				treeCard = true;
+			} else if (currentCards.get(key) == 2) {
+				twoCard = true;
+			}
+		}
+
+		if (treeCard && twoCard) {
+			allPosibleCombSet.add(currentCards);
+		}
+
+	}
+
+}

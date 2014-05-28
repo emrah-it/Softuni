@@ -1,0 +1,49 @@
+package Homework;
+
+import java.util.Scanner;
+
+public class _4_LongestIncreasingSequence {
+
+	public static void main(String[] args) {
+
+		System.out.println("Enter sequence of numbers");
+		Scanner input = new Scanner(System.in);
+
+		String[] inputInArray = input.nextLine().split(" ");
+
+		int[] array = getStringAsArray(inputInArray);
+		int firstNumber = 0;
+		int maxLength = 0;
+		for (int i = 0, j; i < array.length; i++) {
+			int current = array[i];
+			int length = 1;
+			for (j = i + 1; j < array.length; j++) {
+				if (current < array[j]) {
+					length++;
+					current = array[j];
+				} else {
+					break;
+				}
+			}
+			if (maxLength < length) {
+				firstNumber = i;
+				maxLength = length;
+			}
+			i += (j - i) -1 ;
+		}
+
+
+		for (int i = firstNumber; i < firstNumber + maxLength; i++) {
+			System.out.print(array[i] + " ");
+		}
+	}
+
+	private static int[] getStringAsArray(String[] inputInArray) {
+		int[] array = new int[inputInArray.length];
+		for (int i = 0; i < array.length; i++) {
+			array[i] = Integer.parseInt(inputInArray[i]);
+		}
+		return array;
+	}
+
+}
